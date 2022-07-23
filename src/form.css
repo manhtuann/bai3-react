@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+
+}
+.title {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.main {
+    background-color: antiquewhite;
+    border-radius: 8px;
+    width: 50%;
+    margin: 0 auto;
+}
+.main-link {
+    font-size: 24px;
+    font-weight: 600;
+}
+.link {
+    display: flex;
+    align-items: center;
+}
+.shortlink {
+    margin: 0 auto;
+    height: 40px;
+    background-color: antiquewhite;
+    width: 200px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+.active {
+    background-color: #333;
+    color: white;
+}
